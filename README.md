@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Replaced by [`@arraypress/waveform-svelte`](https://www.npmjs.com/package/@arraypress/waveform-svelte) 2.0.** Import from `@arraypress/waveform-svelte/sounds` instead — one package per framework, with a sub-path per component ([repo](https://github.com/WaveformPlayer/svelte), [migration guide](https://docs.waveformplayer.com/getting-started/migrating-from-1x/)).
+> This repository is archived and the npm package is deprecated; its 1.x releases keep working.
+
 <div align="center">
 
 # Waveform Sounds for Svelte
