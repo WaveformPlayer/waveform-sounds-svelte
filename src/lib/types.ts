@@ -16,7 +16,7 @@
  *   - `WaveformSoundsExpose` — the imperative API exported by the component
  *     instance, reachable through `bind:this`.
  *
- * @see {@link https://github.com/arraypress/waveform-sounds} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-sounds} — core library
  */
 import type {
 	Sound,
